@@ -1,0 +1,160 @@
+.container {
+  max-height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: antiquewhite;
+}
+
+.container2 {
+  position: relative;
+  width: 460px;
+}
+
+.magnifyBox1 {
+  display: flex;
+  height: 400px;
+  width: 120px;
+  border: 1px solid black;
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin: auto;
+  background-image: url(./colors-pdf.png);
+  background-size: 500% 200%;
+}
+
+.magnifyBox2 {
+  display: flex;
+  height: 400px;
+  width: 120px;
+  border: 1px solid black;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  margin: auto;
+  background-image: url(./colors-pdf.png);
+  background-size: 500% 200%;
+  background-position: bottom left;
+}
+
+.magnifyBox3 {
+  display: flex;
+  height: 400px;
+  width: 120px;
+  border: 1px solid black;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: translate(60px);
+  margin: auto;
+  background-image: url(./colors-pdf.png);
+  background-size: 500% 200%;
+  background-position: top right 225px;
+}
+
+.magnifyBox4 {
+  display: flex;
+  height: 400px;
+  width: 120px;
+  border: 1px solid black;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  transform: translate(60px);
+  margin: auto;
+  background-image: url(./colors-pdf.png);
+  background-size: 500% 200%;
+  background-position: bottom right 225px;
+}
+
+.magnifyBox5 {
+  display: flex;
+  height: 400px;
+  width: 120px;
+  border: 1px solid black;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: translate(140px);
+  margin: auto;
+  background-image: url(./colors-pdf.png);
+  background-size: 500% 200%;
+  background-position: top right 335px;
+}
+
+.magnifyBox6 {
+  display: flex;
+  height: 400px;
+  width: 120px;
+  border: 1px solid black;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  transform: translate(140px);
+  margin: auto;
+  background-image: url(./colors-pdf.png);
+  background-size: 500% 200%;
+  background-position: bottom right 335px;
+}
+
+.magnifyBox7 {
+  display: flex;
+  height: 400px;
+  width: 120px;
+  border: 1px solid black;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: translate(220px);
+  margin: auto;
+  background-image: url(./colors-pdf.png);
+  background-size: 500% 200%;
+  background-position: top right 445px;
+}
+
+.magnifyBox8 {
+  display: flex;
+  height: 400px;
+  width: 120px;
+  border: 1px solid black;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  transform: translate(220px);
+  margin: auto;
+  background-image: url(./colors-pdf.png);
+  background-size: 500% 200%;
+  background-position: bottom right 445px;
+}
+
+.magnifyBox9 {
+  display: flex;
+  height: 400px;
+  width: 120px;
+  border: 1px solid black;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: translate(300px);
+  margin: auto;
+  background-image: url(./colors-pdf.png);
+  background-size: 500% 200%;
+  background-position: top right 555px;
+}
+
+.magnifyBox10 {
+  display: flex;
+  height: 400px;
+  width: 120px;
+  border: 1px solid black;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  transform: translate(300px);
+  margin: auto;
+  background-image: url(./colors-pdf.png);
+  background-size: 500% 200%;
+  background-position: bottom right 555px;
+}

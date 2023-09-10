@@ -1,0 +1,23 @@
+.magnifier-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.magnifier {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.6);
+  background-image: url(/src/logo.svg);
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  visibility: hidden;
+  z-index: 1;
+  cursor: none;
+}
+
+.magnifier.visible {
+  visibility: visible;
+}
