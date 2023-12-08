@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/Stimuli-Test/static/css/main.854acb43.css",
-    "main.js": "/Stimuli-Test/static/js/main.600cb419.js",
+    "main.css": "/Stimuli-Test/static/css/main.6e516c3e.css",
+    "main.js": "/Stimuli-Test/static/js/main.de96973f.js",
     "static/js/787.6bc37a50.chunk.js": "/Stimuli-Test/static/js/787.6bc37a50.chunk.js",
+    "static/media/colors2-pdf.png": "/Stimuli-Test/static/media/colors2-pdf.7b12a4cdb7e16a084b2d.png",
+    "static/media/colors3-pdf.png": "/Stimuli-Test/static/media/colors3-pdf.4119069b96f638ed05e4.png",
     "static/media/colors-pdf.png": "/Stimuli-Test/static/media/colors-pdf.96bfcd705f4eda9f37b1.png",
     "static/media/logo.svg": "/Stimuli-Test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Stimuli-Test/index.html",
-    "main.854acb43.css.map": "/Stimuli-Test/static/css/main.854acb43.css.map",
-    "main.600cb419.js.map": "/Stimuli-Test/static/js/main.600cb419.js.map",
+    "main.6e516c3e.css.map": "/Stimuli-Test/static/css/main.6e516c3e.css.map",
+    "main.de96973f.js.map": "/Stimuli-Test/static/js/main.de96973f.js.map",
     "787.6bc37a50.chunk.js.map": "/Stimuli-Test/static/js/787.6bc37a50.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.854acb43.css",
-    "static/js/main.600cb419.js"
+    "static/css/main.6e516c3e.css",
+    "static/js/main.de96973f.js"
   ]
 }
